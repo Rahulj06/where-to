@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Nuxt build output
+frontend/.nuxt/
+frontend/.output/
+
+# MongoDB runtime data (kept local, not committed)
+backend/data/db/
+backend/data/mongod.log
+backend/data/mongod.pid
+
+# Env files with secrets
+backend/.env
+frontend/.env
+
+# macOS
+.DS_Store
