@@ -43,8 +43,8 @@ const scoreRestaurant = (restaurant, userLat, userLng, mood, budget) => {
   const scores = {
     vibe: computeVibeScore(restaurant, mood),
     distance: distanceScore(distKm, SEARCH_RADIUS_KM),
-    budget: budgetMatchScore(restaurant.priceRange, budget),
-    rating: ratingScore(restaurant.rating),
+    budget: budgetMatchScore(restaurant.priceRange || 1, budget),
+    rating: ratingScore(restaurant.rating || 0),
     priority: computePriorityBoost(restaurant.source),
   };
 
@@ -77,7 +77,8 @@ const getRecommendations = async ({ lat, lng, mood, budget }) => {
   // Filter by real haversine distance and exact budget tolerance
   const filtered = candidates.filter(restaurant => {
     const distKm = haversineDistance(lat, lng, restaurant.location.lat, restaurant.location.lng);
-    const budgetDiff = Math.abs(restaurant.priceRange - budget);
+    const priceRange = restaurant.priceRange || 1;
+    const budgetDiff = Math.abs(priceRange - budget);
     return distKm <= SEARCH_RADIUS_KM && budgetDiff <= 1;
   });
 

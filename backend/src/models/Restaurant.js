@@ -7,27 +7,38 @@ const restaurantSchema = new mongoose.Schema(
       required: true,
       trim: true,
     },
+    slug: {
+      type: String,
+      trim: true,
+    },
     location: {
+      area: { type: String, trim: true },
+      city: { type: String, trim: true },
       lat: { type: Number, required: true },
       lng: { type: Number, required: true },
+      address: { type: String, trim: true, default: null },
     },
     cuisines: [{ type: String, trim: true }],
+    tags: [{ type: String, trim: true }],
+    price_for_two: {
+      type: Number,
+      default: null,
+    },
     priceRange: {
       type: Number,
-      required: true,
       min: 1,
       max: 4,
+      default: 1,
     },
-    rating: {
-      type: Number,
-      required: true,
-      min: 0,
-      max: 5,
+    is_veg: {
+      type: Boolean,
+      default: false,
     },
-    reviewCount: {
-      type: Number,
-      required: true,
-      default: 0,
+    must_try: [{ type: String, trim: true }],
+    notes: {
+      type: String,
+      trim: true,
+      default: null,
     },
     source: {
       type: String,
@@ -39,6 +50,16 @@ const restaurantSchema = new mongoose.Schema(
       min: 1,
       max: 4,
       default: 1,
+    },
+    rating: {
+      type: Number,
+      min: 0,
+      max: 5,
+      default: null,
+    },
+    reviewCount: {
+      type: Number,
+      default: 0,
     },
     vibeScores: {
       romantic: { type: Number, min: 0, max: 10, default: 5 },
@@ -58,13 +79,27 @@ const restaurantSchema = new mongoose.Schema(
       max: 10,
       default: 5,
     },
-    address: {
-      type: String,
-      trim: true,
-    },
     googlePlaceId: {
       type: String,
+      default: null,
       sparse: true,
+    },
+    media: {
+      cover_image: { type: String, default: null },
+      images: [{ type: String }],
+    },
+    opening_hours: {
+      type: mongoose.Schema.Types.Mixed,
+      default: null,
+    },
+    contact: {
+      phone: { type: String, default: null },
+      website: { type: String, default: null },
+    },
+    status: {
+      type: String,
+      enum: ['verified', 'to_try'],
+      default: 'verified',
     },
   },
   {

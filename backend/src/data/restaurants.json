@@ -1,0 +1,3348 @@
+[
+  {
+    "id": "27c16e2d-41e0-4ea8-9564-f6ccbcd6348e",
+    "name": "Amber Sweets",
+    "slug": "amber-sweets",
+    "location": {
+      "area": "Mira Road East",
+      "city": "Mumbai",
+      "lat": 19.2793719,
+      "lng": 72.8600481,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "sweets",
+      "vegetarian"
+    ],
+    "price_for_two": 500,
+    "is_veg": true,
+    "must_try": [
+      "Motichur Ladoo",
+      "Masala Milk",
+      "Kaju Katli"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T19:26:19.806Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "ecd5d2c7-7f60-4598-bc87-ac5b7493c8dc",
+    "name": "Americano",
+    "slug": "americano",
+    "location": {
+      "area": "Fort",
+      "city": "Mumbai",
+      "lat": 18.9290078,
+      "lng": 72.8326453,
+      "address": null
+    },
+    "cuisines": [
+      "Italian"
+    ],
+    "tags": [
+      "italian",
+      "fine-dining"
+    ],
+    "price_for_two": 3000,
+    "is_veg": false,
+    "must_try": [
+      "Jalapeño Dijon Pork Belly",
+      "Crudo of Sea Bass",
+      "Meatballs al Forno",
+      "Duck Ravioli",
+      "Carnivore Pizza",
+      "Cacio e Pepe",
+      "Black Truffle Cappelletti",
+      "Torta Tenerina 2.0",
+      "Tiramisu Americano"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:16:40.707Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "1c71eb25-690c-409c-805c-69d982635e13",
+    "name": "Aram",
+    "slug": "aram",
+    "location": {
+      "area": "CST",
+      "city": "Mumbai",
+      "lat": 18.9395191,
+      "lng": 72.8344889,
+      "address": null
+    },
+    "cuisines": [
+      "Maharashtrian"
+    ],
+    "tags": [
+      "maharashtrian",
+      "street-food",
+      "budget",
+      "vegetarian"
+    ],
+    "price_for_two": 100,
+    "is_veg": true,
+    "must_try": [
+      "Vada Pav"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:15:21.068Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "1dee04b0-574d-4aea-80d8-aa058583d3aa",
+    "name": "Bandra Born",
+    "slug": "bandra-born",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0504724,
+      "lng": 72.8269989,
+      "address": "Rose Minar, 87, Chapel Rd, Annexe, Reclamation, Bandra West, Mumbai, Maharashtra 400050, India"
+    },
+    "cuisines": [
+      "Modern Indian"
+    ],
+    "tags": [
+      "modern-indian",
+      "fine-dining",
+      "seafood"
+    ],
+    "price_for_two": 3000,
+    "is_veg": false,
+    "must_try": [
+      "East Indian Crab Curry Dip",
+      "Grandmother Fanny's Prawn Dish",
+      "Marrow Chilli Cheese Toast",
+      "Posh Hersch Puff",
+      "Egg Fried Rice",
+      "Return of the Kerala Vanilla Cake"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": "ChIJY6aU-TrJ5zsREHwCKiV8NSU",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:28.679Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "2fcf495b-9c32-47aa-ba88-91653b867113",
+    "name": "Bang Bang! Noodle",
+    "slug": "bang-bang-noodle",
+    "location": {
+      "area": "Goregaon West",
+      "city": "Mumbai",
+      "lat": 19.154287,
+      "lng": 72.8433269,
+      "address": null
+    },
+    "cuisines": [
+      "Asian"
+    ],
+    "tags": [
+      "asian",
+      "noodles"
+    ],
+    "price_for_two": 700,
+    "is_veg": false,
+    "must_try": [
+      "Pixian Chilli Basil Pork Belly",
+      "Char Kway Teow",
+      "Ma La Chilli Oil Wontons"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:19:02.233Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "725dd973-4dd3-48d4-89ae-c3c8bb342308",
+    "name": "Benne - Heritage Bangalore Dosa",
+    "slug": "benne-heritage-bangalore-dosa",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0625846,
+      "lng": 72.8308966,
+      "address": null
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian",
+      "vegetarian",
+      "breakfast",
+      "dosa"
+    ],
+    "price_for_two": 350,
+    "is_veg": true,
+    "must_try": [
+      "Benne Podi Dosa",
+      "Ghee Podi Idli",
+      "Iced Filter Coffee",
+      "Iced Horlicks",
+      "Mysore Pak"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T08:35:11.392Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "39db335c-db46-4b25-bd7f-740efeebf305",
+    "name": "Bombay Sweet Shop",
+    "slug": "bombay-sweet-shop",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0592664,
+      "lng": 72.8289177,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "sweets",
+      "bakery"
+    ],
+    "price_for_two": 700,
+    "is_veg": false,
+    "must_try": [
+      "Gulab Jamun Churros",
+      "Bombay's 3-Layer Chocolate Fudge",
+      "Ghee Roast Bhujia",
+      "Choco Butterscotch Barks",
+      "Indian Cookies",
+      "Chocolate Butter Cookies"
+    ],
+    "notes": "Menu updates frequently - ask the staff",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:09:03.593Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "de0f7163-17d7-4e8b-a533-182790877eee",
+    "name": "Cafe Madras",
+    "slug": "cafe-madras",
+    "location": {
+      "area": "Matunga East",
+      "city": "Mumbai",
+      "lat": 19.0276203,
+      "lng": 72.8550415,
+      "address": null
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian",
+      "vegetarian",
+      "breakfast",
+      "budget"
+    ],
+    "price_for_two": 250,
+    "is_veg": true,
+    "must_try": [
+      "Ghee Podi Idli",
+      "Mysore Masala Dosa",
+      "Rasam Vada"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:23:36.651Z",
+      "updated_at": "2025-11-30T11:34:24.268Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "5c889745-3d01-473b-9b3e-24b74c6f039e",
+    "name": "Chaitanya",
+    "slug": "chaitanya",
+    "location": {
+      "area": "Dadar",
+      "city": "Mumbai",
+      "lat": 19.0181842,
+      "lng": 72.8327809,
+      "address": null
+    },
+    "cuisines": [
+      "Maharashtrian"
+    ],
+    "tags": [
+      "maharashtrian",
+      "thali"
+    ],
+    "price_for_two": 800,
+    "is_veg": false,
+    "must_try": [
+      "Thalis"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:16:14.361Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "34ae9377-b2de-4a53-9de2-3a2c81c6a5c9",
+    "name": "Chantilly",
+    "slug": "chantilly",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0593071,
+      "lng": 72.8289074,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "cafe",
+      "beverages"
+    ],
+    "price_for_two": 500,
+    "is_veg": false,
+    "must_try": [
+      "Dark Hot Chocolate",
+      "Frozen Hot Chocolate"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:05:13.001Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "e9782fd7-c16d-472f-a9b5-4fd511b6fc67",
+    "name": "Chef James Kitchen",
+    "slug": "chef-james-kitchen",
+    "location": {
+      "area": "Andheri West",
+      "city": "Mumbai",
+      "lat": 19.1415665,
+      "lng": 72.833853,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese",
+      "Korean"
+    ],
+    "tags": [
+      "japanese",
+      "korean",
+      "asian",
+      "ramen"
+    ],
+    "price_for_two": 1200,
+    "is_veg": false,
+    "must_try": [
+      "Ramen",
+      "Tteokbokki"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-21T17:49:14.869Z",
+      "updated_at": "2025-11-30T11:33:23.635Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "5acedd44-73d7-40cc-a8a9-152dab13e71a",
+    "name": "CinCin",
+    "slug": "cincin",
+    "location": {
+      "area": "BKC",
+      "city": "Mumbai",
+      "lat": 19.0609888,
+      "lng": 72.8630295,
+      "address": null
+    },
+    "cuisines": [
+      "Italian"
+    ],
+    "tags": [
+      "italian",
+      "fine-dining",
+      "pasta"
+    ],
+    "price_for_two": 2000,
+    "is_veg": false,
+    "must_try": [
+      "Tajarin",
+      "Ravioli",
+      "Risotto Funghi"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:09:41.055Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "d094b457-5911-4950-8d43-95094b387aff",
+    "name": "Farid Seekh Kabab Center",
+    "slug": "farid-seekh-kabab-center",
+    "location": {
+      "area": "Jogeshwari West",
+      "city": "Mumbai",
+      "lat": 19.1434374,
+      "lng": 72.8378446,
+      "address": null
+    },
+    "cuisines": [
+      "Indian"
+    ],
+    "tags": [
+      "indian",
+      "kebabs",
+      "street-food",
+      "budget"
+    ],
+    "price_for_two": 300,
+    "is_veg": false,
+    "must_try": [
+      "Seekh Kebab"
+    ],
+    "notes": "can skip the paratha",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:21:16.980Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "864fc93c-9f9f-4c06-aece-880483620ade",
+    "name": "Folk",
+    "slug": "folk",
+    "location": {
+      "area": "Fort",
+      "city": "Mumbai",
+      "lat": 18.9279865,
+      "lng": 72.8328771,
+      "address": null
+    },
+    "cuisines": [
+      "Multi Cuisine"
+    ],
+    "tags": [
+      "multi-cuisine",
+      "regional-indian"
+    ],
+    "price_for_two": 800,
+    "is_veg": false,
+    "must_try": [],
+    "notes": "They have one dish from each state",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:17:10.249Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "5f8848e6-dd41-4d7a-8890-4310d98744ce",
+    "name": "Gaijin",
+    "slug": "gaijin",
+    "location": {
+      "area": "Khar West",
+      "city": "Mumbai",
+      "lat": 19.071581,
+      "lng": 72.8338,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "fine-dining",
+      "robata"
+    ],
+    "price_for_two": 3000,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Gyoza",
+      "Pork & Clam Tostada",
+      "Lamb Ribs",
+      "Bone Marrow",
+      "Spicy Avocado",
+      "Robata Toban Yaki Chicken",
+      "Pork Udon Bowl"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T08:38:22.593Z",
+      "updated_at": "2025-11-30T11:33:56.411Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "acd246db-b2de-4aa6-b7ae-4c60f56135d8",
+    "name": "Gallops Restaurant",
+    "slug": "gallops-restaurant",
+    "location": {
+      "area": "Mahalaxmi",
+      "city": "Mumbai",
+      "lat": 18.9810633,
+      "lng": 72.8172708,
+      "address": "Inside Mahalaxmi Racecourse, Via, Gate no 1, Keshavrao Khadye Marg, Royal Western India Turf Club, Mahalakshmi, Mumbai, Maharashtra 400034, India"
+    },
+    "cuisines": [
+      "Continental",
+      "Indian"
+    ],
+    "tags": [
+      "continental",
+      "indian",
+      "fine-dining",
+      "heritage"
+    ],
+    "price_for_two": 1800,
+    "is_veg": false,
+    "must_try": [
+      "Corn Ribs",
+      "Roti pe Boti",
+      "Hyderabadi Machli",
+      "Patthar Kabab",
+      "Kashmiri Rogan Josh"
+    ],
+    "notes": "Saag is also good, try it without the Burrata",
+    "source": "curated",
+    "google": {
+      "place_id": "ChIJu1252lvI5zsR14nH1NzDkTY",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-01-03T18:07:24.674Z",
+      "updated_at": "2026-01-03T18:07:24.674Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "639c25f1-5fcf-4932-8476-cd8dba27db5a",
+    "name": "Haji Ali Juice Centre",
+    "slug": "haji-ali-juice-centre",
+    "location": {
+      "area": "Haji Ali",
+      "city": "Mumbai",
+      "lat": 18.9783974,
+      "lng": 72.8111114,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "iconic",
+      "beverages"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [
+      "Sitaphal Cream",
+      "Strawberry Cream"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:20:26.666Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "9d4d886d-1b15-44e3-ab9b-6dea23152b76",
+    "name": "Hearsch Bakery",
+    "slug": "hearsch-bakery",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0552103,
+      "lng": 72.8270433,
+      "address": null
+    },
+    "cuisines": [
+      "Bakery"
+    ],
+    "tags": [
+      "bakery",
+      "cafe",
+      "budget"
+    ],
+    "price_for_two": 300,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Burger",
+      "Shrewsbury Biscuits"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T13:02:04.787Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "e7b7496d-76bb-4092-bcbb-90df939f6ce3",
+    "name": "Häagen-Dazs",
+    "slug": "haagen-dazs",
+    "location": {
+      "area": "Khar West",
+      "city": "Mumbai",
+      "lat": 19.0705367,
+      "lng": 72.8226376,
+      "address": null
+    },
+    "cuisines": [
+      "Ice Cream"
+    ],
+    "tags": [
+      "desserts",
+      "ice-cream"
+    ],
+    "price_for_two": 500,
+    "is_veg": false,
+    "must_try": [
+      "Strawberry Ice Cream"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T19:31:05.188Z",
+      "updated_at": "2025-11-30T11:33:56.411Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "e9dd64ab-fc44-4952-a005-f2a7638b39c7",
+    "name": "Izumi",
+    "slug": "izumi",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0642831,
+      "lng": 72.8329865,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "fine-dining",
+      "sushi"
+    ],
+    "price_for_two": 2000,
+    "is_veg": false,
+    "must_try": [
+      "Pork Kakuni",
+      "Bluefin Chutoro",
+      "Hamachi Truffle Ponzu"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T13:02:59.839Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "515c6ea3-7a0d-430b-9e9c-5969fb47fa57",
+    "name": "Jai Jawan",
+    "slug": "jai-jawan",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0642569,
+      "lng": 72.83468,
+      "address": null
+    },
+    "cuisines": [
+      "Punjabi"
+    ],
+    "tags": [
+      "punjabi",
+      "seafood"
+    ],
+    "price_for_two": 500,
+    "is_veg": false,
+    "must_try": [
+      "Punjabi Prawns Fry with Pav",
+      "Butter Chicken",
+      "Prawns Biryani"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T13:03:43.193Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "dfeaad69-1d33-4177-a86e-4ad16d9d1155",
+    "name": "Kuuraku",
+    "slug": "kuuraku",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0609121,
+      "lng": 72.8370265,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "yakitori",
+      "asian"
+    ],
+    "price_for_two": 1500,
+    "is_veg": false,
+    "must_try": [
+      "Yakitori and Skewers"
+    ],
+    "notes": "People talk a lot about the Ramen here, but it's strictly average.",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T13:04:19.832Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "cbf3e259-4b8e-4ab7-b5ce-7d1fd5de62f2",
+    "name": "La Loca Maria",
+    "slug": "la-loca-maria",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0615086,
+      "lng": 72.8300866,
+      "address": null
+    },
+    "cuisines": [
+      "Spanish"
+    ],
+    "tags": [
+      "spanish",
+      "fine-dining",
+      "seafood"
+    ],
+    "price_for_two": 2500,
+    "is_veg": false,
+    "must_try": [
+      "BFF Carpaccio",
+      "Gambas Al Ajillo",
+      "Crispy Soft Shell Crab"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T19:31:55.738Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "ed3b8c97-bd3a-448c-b8f8-b0b303a837d3",
+    "name": "Magnolia",
+    "slug": "magnolia",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0610638,
+      "lng": 72.8297422,
+      "address": null
+    },
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "tags": [
+      "bakery",
+      "desserts",
+      "cafe"
+    ],
+    "price_for_two": 700,
+    "is_veg": false,
+    "must_try": [
+      "Tres Leches",
+      "Chocolate Parfait"
+    ],
+    "notes": "Skip the ice creams",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T16:48:37.489Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "293e85fb-4dbb-450b-81aa-0df475fcebc1",
+    "name": "Mama'esh",
+    "slug": "mama-esh",
+    "location": {
+      "area": "Goregaon East",
+      "city": "Mumbai",
+      "lat": 19.1751681,
+      "lng": 72.8738476,
+      "address": null
+    },
+    "cuisines": [
+      "Palestinian"
+    ],
+    "tags": [
+      "middle-eastern",
+      "palestinian",
+      "mandi"
+    ],
+    "price_for_two": 1500,
+    "is_veg": false,
+    "must_try": [
+      "Tavuk Duman",
+      "Palestinian Mutton Mandi"
+    ],
+    "notes": "Avoid the veg food here",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:17:51.375Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "20a951c4-3281-4769-9f12-f65222a8c19e",
+    "name": "Mami Bombay",
+    "slug": "mami-bombay",
+    "location": {
+      "area": "Ranwar",
+      "city": "Mumbai",
+      "lat": 19.0541946,
+      "lng": 72.8263933,
+      "address": "Galla 3, 77/E, Pleasant Villa, Waroda Rd, Ranwar, Bandra West, Mumbai, Maharashtra 400050, India"
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "vegetarian",
+      "cafe",
+      "tiramisu"
+    ],
+    "price_for_two": null,
+    "is_veg": true,
+    "must_try": [
+      "Classic Tiramisu"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": "ChIJLZ6uOQDJ5zsR3fVKbVFFxME",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-01-26T14:53:17.636Z",
+      "updated_at": "2026-01-26T14:53:17.636Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "753230c5-13b9-4af7-a925-5dc67f3f4ba2",
+    "name": "Miya Kebabs",
+    "slug": "miya-kebabs",
+    "location": {
+      "area": "Khar West",
+      "city": "Mumbai",
+      "lat": 19.0625008,
+      "lng": 72.8308923,
+      "address": null
+    },
+    "cuisines": [
+      "Indian"
+    ],
+    "tags": [
+      "indian",
+      "kebabs"
+    ],
+    "price_for_two": 800,
+    "is_veg": false,
+    "must_try": [
+      "Kashmiri Tikka",
+      "Mutton Roll"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T16:55:30.932Z",
+      "updated_at": "2025-11-30T11:33:56.411Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "0ab39664-9c69-4f90-8999-f60144157646",
+    "name": "Mokai",
+    "slug": "mokai",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0524466,
+      "lng": 72.8285898,
+      "address": null
+    },
+    "cuisines": [
+      "Asian",
+      "Thai"
+    ],
+    "tags": [
+      "asian",
+      "thai",
+      "brunch",
+      "dimsums"
+    ],
+    "price_for_two": 1200,
+    "is_veg": false,
+    "must_try": [
+      "Miso Eggs Benedict with Salmon",
+      "Asian Shakshuka",
+      "Tom Yum Prawn Dimsums",
+      "Bang Bang Prawns",
+      "Hong Kong Street Style Chicken Wontons"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T16:56:14.589Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "4a1b1f82-fa15-41dc-973d-4ebae8ea9198",
+    "name": "O Pedro",
+    "slug": "o-pedro",
+    "location": {
+      "area": "BKC",
+      "city": "Mumbai",
+      "lat": 19.059363,
+      "lng": 72.864943,
+      "address": null
+    },
+    "cuisines": [
+      "Goan",
+      "Modern Indian"
+    ],
+    "tags": [
+      "goan",
+      "modern-indian",
+      "fine-dining",
+      "seafood"
+    ],
+    "price_for_two": 2500,
+    "is_veg": false,
+    "must_try": [
+      "Choriz Fried Rice",
+      "Cured Ham",
+      "Pedro's World Famous B**F Burger",
+      "House-Baked Sourdough Poee with Choriz Butter",
+      "Crab 'Ros Omlette'",
+      "NISH-TE Rawa Fry",
+      "Pedro Ceviche"
+    ],
+    "notes": "Menu updates frequently - ask the staff",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:10:08.208Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "220b3dff-e3b5-4f99-bc76-cb4269e43f9a",
+    "name": "Olivia",
+    "slug": "olivia",
+    "location": {
+      "area": "Mira Road East",
+      "city": "Mumbai",
+      "lat": 19.2828809,
+      "lng": 72.8784673,
+      "address": null
+    },
+    "cuisines": [
+      "Multi Cuisine"
+    ],
+    "tags": [
+      "multi-cuisine"
+    ],
+    "price_for_two": 1200,
+    "is_veg": false,
+    "must_try": [
+      "Egg Fried Rice",
+      "Chicken Hakka",
+      "Saundhe Aloo",
+      "Murg Musallam",
+      "Dal Fry"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T19:25:04.995Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "f1f3d850-dd55-4aaf-948f-68b4e940134c",
+    "name": "Papa's",
+    "slug": "papa-s",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0541524,
+      "lng": 72.8267957,
+      "address": null
+    },
+    "cuisines": [
+      "Modern Indian"
+    ],
+    "tags": [
+      "modern-indian",
+      "fine-dining",
+      "tasting-menu",
+      "luxury"
+    ],
+    "price_for_two": 7500,
+    "is_veg": false,
+    "must_try": [
+      "Tasting Menu"
+    ],
+    "notes": "Good luck getting a reservation here!",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:25:57.368Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "0ac1f9ec-1fee-4c5f-a078-879f982026f0",
+    "name": "Persian Darbar",
+    "slug": "persian-darbar",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0603528,
+      "lng": 72.8366709,
+      "address": null
+    },
+    "cuisines": [
+      "Indian"
+    ],
+    "tags": [
+      "indian",
+      "middle-eastern-inspired",
+      "rice"
+    ],
+    "price_for_two": 600,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Kepsa Rice"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T17:52:19.273Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "389ed790-b644-497b-a179-f54d9534ae9d",
+    "name": "Pincode Delhi",
+    "slug": "pincode-delhi",
+    "location": {
+      "area": "Andheri East",
+      "city": "Mumbai",
+      "lat": 19.1243052,
+      "lng": 72.864196,
+      "address": null
+    },
+    "cuisines": [
+      "Punjabi"
+    ],
+    "tags": [
+      "punjabi",
+      "vegetarian",
+      "budget",
+      "breakfast"
+    ],
+    "price_for_two": 250,
+    "is_veg": true,
+    "must_try": [
+      "Chole Bhature"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-21T04:52:14.190Z",
+      "updated_at": "2025-11-30T11:33:11.631Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "c8278327-c897-4168-bbc9-c832e19dd021",
+    "name": "Pink Dragon",
+    "slug": "pink-dragon",
+    "location": {
+      "area": "Mira Road East",
+      "city": "Mumbai",
+      "lat": 19.2824742,
+      "lng": 72.8665497,
+      "address": null
+    },
+    "cuisines": [
+      "Chinese"
+    ],
+    "tags": [
+      "chinese",
+      "asian",
+      "sizzlers"
+    ],
+    "price_for_two": 600,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Lollipop",
+      "Sizzlers",
+      "Ginger Fried Rice",
+      "Garlic Chilli Potato",
+      "Shredded Chicken in Oyster Sauce"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-22T19:23:51.307Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "31d732bb-389a-4815-944a-e5a612de09dd",
+    "name": "Pizza Culture",
+    "slug": "pizza-culture",
+    "location": {
+      "area": "Sector 3",
+      "city": "Thane",
+      "lat": 19.2719379,
+      "lng": 72.8719399,
+      "address": "Shop 3A, Building 1, 2, Shanti Gardens Rd, opposite SVC Bank, New Mhada Colony, Sector 3, Srishti Complex, Mira Road East, Thane, Mira Bhayandar, Maharashtra 401107, India"
+    },
+    "cuisines": [
+      "Fast Food"
+    ],
+    "tags": [
+      "fast-food",
+      "pizza"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": "ChIJYVkNKeCx5zsRhfCOaqikZpM",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-01-10T07:11:42.868Z",
+      "updated_at": "2026-01-10T07:11:42.868Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "8b2f0a53-beea-48c5-8aac-6ab9914f8e84",
+    "name": "ROYCE' Chocolate",
+    "slug": "royce-chocolate",
+    "location": {
+      "area": "Juhu",
+      "city": "Mumbai",
+      "lat": 19.1018007,
+      "lng": 72.8261817,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "chocolates",
+      "premium"
+    ],
+    "price_for_two": 1500,
+    "is_veg": false,
+    "must_try": [
+      "Ghana Bitter",
+      "Ecuador Sweet"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:21:54.415Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "9c5721e2-0c96-4fe0-8a5a-aa4c1b00ed1c",
+    "name": "Ramashraya",
+    "slug": "ramashraya",
+    "location": {
+      "area": "Matunga East",
+      "city": "Mumbai",
+      "lat": 18.995095,
+      "lng": 72.8353267,
+      "address": null
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian",
+      "vegetarian",
+      "budget",
+      "breakfast",
+      "early-morning"
+    ],
+    "price_for_two": 200,
+    "is_veg": true,
+    "must_try": [
+      "Pineapple Sheera",
+      "Butter Idli",
+      "Pudi Idli",
+      "Filter Coffee"
+    ],
+    "notes": "Go in the morning - before 6 AM",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:23:08.279Z",
+      "updated_at": "2025-11-30T11:34:24.268Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "9040d91a-474f-48c2-9da7-f6d03cae1337",
+    "name": "Sarvi",
+    "slug": "sarvi",
+    "location": {
+      "area": "Byculla",
+      "city": "Mumbai",
+      "lat": 18.9668207,
+      "lng": 72.8291165,
+      "address": null
+    },
+    "cuisines": [
+      "Indian"
+    ],
+    "tags": [
+      "indian",
+      "kebabs",
+      "street-food",
+      "budget"
+    ],
+    "price_for_two": 300,
+    "is_veg": false,
+    "must_try": [
+      "Seekh Kebab"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:11:17.668Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "96e0b491-adb5-4059-aa94-b304ccf016d6",
+    "name": "Satkar Rice Plate House",
+    "slug": "satkar-rice-plate-house",
+    "location": {
+      "area": "Goregaon East",
+      "city": "Mumbai",
+      "lat": 19.1650015,
+      "lng": 72.8504632,
+      "address": null
+    },
+    "cuisines": [
+      "Maharashtrian"
+    ],
+    "tags": [
+      "maharashtrian",
+      "thali"
+    ],
+    "price_for_two": 1000,
+    "is_veg": false,
+    "must_try": [
+      "Thalis"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:18:20.776Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "3dbfce38-3d8b-4dff-b37b-f7ba29806c1a",
+    "name": "Seefah",
+    "slug": "seefah",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0545881,
+      "lng": 72.8282481,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese",
+      "Thai"
+    ],
+    "tags": [
+      "japanese",
+      "thai",
+      "asian"
+    ],
+    "price_for_two": 1000,
+    "is_veg": false,
+    "must_try": [
+      "Dan Dan Noodles",
+      "Seafood Omlette with Crab Meat Curry",
+      "Khao Man Gai"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T17:56:05.431Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "2831ab47-f65e-4c53-b5f3-dff8d7c54b9d",
+    "name": "Suleman Usman Mithaiwala",
+    "slug": "suleman-usman-mithaiwala",
+    "location": {
+      "area": "Mohammed Ali Road",
+      "city": "Mumbai",
+      "lat": 18.9546881,
+      "lng": 72.8331656,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "sweets",
+      "iconic",
+      "budget"
+    ],
+    "price_for_two": 200,
+    "is_veg": false,
+    "must_try": [
+      "Firni"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:24:07.613Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "2141f60e-83bd-4950-ab5a-f66c56fb079d",
+    "name": "Tawaa Mystery",
+    "slug": "tawaa-mystery",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0616176,
+      "lng": 72.8335768,
+      "address": null
+    },
+    "cuisines": [
+      "Indian"
+    ],
+    "tags": [
+      "indian",
+      "street-food",
+      "late-night"
+    ],
+    "price_for_two": 500,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Cream Roll"
+    ],
+    "notes": "Opens at 7 PM",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T17:56:49.359Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "1ef5a0d5-b6e1-444f-84be-eacacdecf9a2",
+    "name": "Tharu Sweets",
+    "slug": "tharu-sweets",
+    "location": {
+      "area": "Khar West",
+      "city": "Mumbai",
+      "lat": 19.0674869,
+      "lng": 72.8364005,
+      "address": null
+    },
+    "cuisines": [
+      "Desserts"
+    ],
+    "tags": [
+      "desserts",
+      "sweets"
+    ],
+    "price_for_two": 600,
+    "is_veg": false,
+    "must_try": [
+      "Kaju Katli",
+      "Sev Barfi"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T17:57:59.360Z",
+      "updated_at": "2025-11-30T11:33:56.411Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "294eca70-8b44-4df7-b425-4ae152f2599c",
+    "name": "The Bombay Canteen",
+    "slug": "the-bombay-canteen",
+    "location": {
+      "area": "Lower Parel",
+      "city": "Mumbai",
+      "lat": 19.003245,
+      "lng": 72.827576,
+      "address": null
+    },
+    "cuisines": [
+      "Modern Indian"
+    ],
+    "tags": [
+      "modern-indian",
+      "fine-dining"
+    ],
+    "price_for_two": 2000,
+    "is_veg": false,
+    "must_try": [
+      "Barley Salad",
+      "Eggs Kejriwal",
+      "Chicken Seekh Roll",
+      "Chilled Sea Bass Sev Puri"
+    ],
+    "notes": "Menu updates frequently - ask the staff",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:26:50.020Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "41bcf2d1-c2ab-45fb-8c9d-0410c80729ba",
+    "name": "The Table",
+    "slug": "the-table",
+    "location": {
+      "area": "Colaba",
+      "city": "Mumbai",
+      "lat": 18.924176,
+      "lng": 72.8330669,
+      "address": null
+    },
+    "cuisines": [
+      "Continental"
+    ],
+    "tags": [
+      "continental",
+      "fine-dining",
+      "luxury"
+    ],
+    "price_for_two": 4500,
+    "is_veg": false,
+    "must_try": [
+      "Warm Focaccia",
+      "Porcini Mushroom Gougères",
+      "Duck Liver Mousse",
+      "Lamb Brain & Morel Vol Au Vent",
+      "Thick Cut Bacon",
+      "Beef Tartare",
+      "Roasted Bone Marrow",
+      "Alla Chitarra With Black Winter Truffle",
+      "Fettuccine Al Limone",
+      "Sea Bass El Papillote",
+      "Chocolate Sabayon Tart",
+      "Tiramisu Alla Tradizionale"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:12:44.540Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "b43a5cb4-19f2-4c01-a68c-8f4e6188b239",
+    "name": "The Tanjore Tiffin Room",
+    "slug": "the-tanjore-tiffin-room",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0717264,
+      "lng": 72.8248142,
+      "address": null
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian",
+      "fine-dining"
+    ],
+    "price_for_two": 2000,
+    "is_veg": false,
+    "must_try": [
+      "Stew",
+      "Khorma",
+      "Ghee Roast",
+      "Madras Railway Curry"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T17:59:19.677Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "efb87797-6c18-4bfb-a83e-ed7f1fc07513",
+    "name": "Thotrin Cafe",
+    "slug": "thotrin-cafe",
+    "location": {
+      "area": "Santacruz East",
+      "city": "Mumbai",
+      "lat": 19.0767426,
+      "lng": 72.8670422,
+      "address": null
+    },
+    "cuisines": [
+      "North East Indian"
+    ],
+    "tags": [
+      "north-east-indian",
+      "cafe",
+      "momos"
+    ],
+    "price_for_two": 500,
+    "is_veg": false,
+    "must_try": [
+      "Pork Momos",
+      "Pork with Bamboo Shoot",
+      "Thotrin Rice",
+      "Pork Chilli",
+      "Chicken Thukpa"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:24:44.394Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "92b59a17-b1dc-4847-a43f-612b9eb4b2ed",
+    "name": "Veronica's",
+    "slug": "veronica-s",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.0541739,
+      "lng": 72.8268007,
+      "address": null
+    },
+    "cuisines": [
+      "Café",
+      "Fast Food"
+    ],
+    "tags": [
+      "cafe",
+      "fast-food",
+      "burgers",
+      "sandwiches"
+    ],
+    "price_for_two": 1000,
+    "is_veg": false,
+    "must_try": [
+      "Pastrami Sandwich",
+      "Veronica's Smash Burger"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:04:44.663Z",
+      "updated_at": "2025-11-30T11:33:36.992Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "164863df-863d-45e0-94b5-b0df94372d22",
+    "name": "Voice Of India",
+    "slug": "voice-of-india",
+    "location": {
+      "area": "Charni Road",
+      "city": "Mumbai",
+      "lat": 18.955121,
+      "lng": 72.8184534,
+      "address": null
+    },
+    "cuisines": [
+      "Mughlai"
+    ],
+    "tags": [
+      "mughlai",
+      "budget",
+      "street-food",
+      "shawarma"
+    ],
+    "price_for_two": 300,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Kepsa Rice",
+      "Chicken Lazeez",
+      "Chicken Shawarma"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:11:48.122Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "ac295a8f-a24e-4ca5-be58-875d2d3b0e29",
+    "name": "Wagamama",
+    "slug": "wagamama",
+    "location": {
+      "area": "Churchgate",
+      "city": "Mumbai",
+      "lat": 18.9320892,
+      "lng": 72.8280505,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "asian",
+      "ramen"
+    ],
+    "price_for_two": 700,
+    "is_veg": false,
+    "must_try": [
+      "Sticky Miso Corn Ribs",
+      "Minced Chicken Chilli Tantanmen",
+      "Firecracker Chicken",
+      "Moyashi Soba"
+    ],
+    "notes": null,
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:12:14.367Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "5d10f955-b09b-4afd-a02a-52ea4eeac92d",
+    "name": "Yauatcha",
+    "slug": "yauatcha",
+    "location": {
+      "area": "BKC",
+      "city": "Mumbai",
+      "lat": 19.0609124,
+      "lng": 72.8629578,
+      "address": null
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "fine-dining",
+      "asian"
+    ],
+    "price_for_two": 3000,
+    "is_veg": false,
+    "must_try": [],
+    "notes": "Ask the staff",
+    "source": "curated",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-24T18:10:43.382Z",
+      "updated_at": "2025-11-30T10:56:44.296Z"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "106bef1f-0030-4f60-aa8b-48f55666e492",
+    "name": "ARAKU Coffee",
+    "slug": "araku-coffee",
+    "location": {
+      "area": "Colaba",
+      "city": "Mumbai",
+      "lat": 18.9221547,
+      "lng": 72.8324877,
+      "address": "Sunny House, Mandlik Rd, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India"
+    },
+    "cuisines": [
+      "Continental"
+    ],
+    "tags": [
+      "continental",
+      "cafe",
+      "coffee"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJG7wUJOLR5zsRcVkxt-Oev6Q",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:26.142Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    }
+  },
+  {
+    "id": "722b1a19-2a9a-4bba-91b0-ec446dc6d051",
+    "name": "Aadeshwari Biryani Center",
+    "slug": "aadeshwari-biryani-center",
+    "location": {
+      "area": "Matunga East",
+      "city": "Mumbai",
+      "lat": 19.03328,
+      "lng": 72.85457,
+      "address": null
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian",
+      "biryani"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:21.498Z",
+      "updated_at": "2025-11-30T10:57:49.418Z"
+    }
+  },
+  {
+    "id": "9b357f79-b08f-4096-853e-25ef9d0a1c72",
+    "name": "Across",
+    "slug": "across-kala-ghoda-mumbai",
+    "location": {
+      "area": "Fort",
+      "city": "Mumbai",
+      "lat": 18.9292,
+      "lng": 72.83447,
+      "address": null
+    },
+    "cuisines": [
+      "Himalayan"
+    ],
+    "tags": [
+      "himalayan"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:21.011Z",
+      "updated_at": "2025-11-30T10:59:54.937Z"
+    }
+  },
+  {
+    "id": "4a7fa998-08a4-4571-832d-21e09e1e9407",
+    "name": "Aegyo Cafe & Bakehouse",
+    "slug": "aegyo-cafe-bakehouse",
+    "location": {
+      "area": "Santacruz West",
+      "city": "Mumbai",
+      "lat": 19.0768261,
+      "lng": 72.8340001,
+      "address": "Gurukripa Plot, 65 F, Main Ave, Vithaldas Nagar, Santacruz West, Mumbai, Maharashtra 400054, India"
+    },
+    "cuisines": [
+      "Korean"
+    ],
+    "tags": [
+      "korean",
+      "cafe",
+      "bakery"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJqa_u3P3J5zsRXy0OvL440rY",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:28.846Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    }
+  },
+  {
+    "id": "161ee7ef-2fdf-47bc-8dc7-dd499392e61f",
+    "name": "All Stir Fry",
+    "slug": "all-stir-fry",
+    "location": {
+      "area": "Colaba",
+      "city": "Mumbai",
+      "lat": 18.9239818,
+      "lng": 72.8328028,
+      "address": "Ground Floor, 5, Battery St, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India"
+    },
+    "cuisines": [
+      "Asian"
+    ],
+    "tags": [
+      "asian",
+      "stir-fry"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [
+      "Chin Win Chicken",
+      "The Quick Wok"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJN_kOPMHR5zsRlA50LqVLGL0",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:26.306Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    }
+  },
+  {
+    "id": "214ee0d1-d3bc-431d-bc35-aa8b832eb101",
+    "name": "Anand Bhuvan Hotel",
+    "slug": "anand-bhuvan-hotel",
+    "location": {
+      "area": "Lower Parel",
+      "city": "Mumbai",
+      "lat": 18.9982015,
+      "lng": 72.8255583,
+      "address": "323, Ganapatrao Kadam Marg, Lower Parel West, Lower Parel, Mumbai, Maharashtra 400013, India"
+    },
+    "cuisines": [
+      "Maharashtrian"
+    ],
+    "tags": [
+      "maharashtrian",
+      "vegetarian",
+      "street-food",
+      "budget"
+    ],
+    "price_for_two": null,
+    "is_veg": true,
+    "must_try": [
+      "Misal Pav"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJcQgmdY3O5zsRiI9DBl5SjbU",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:25.503Z",
+      "updated_at": "2025-11-30T13:02:57.204Z"
+    }
+  },
+  {
+    "id": "85c5d0ef-2b6e-48e3-89c3-059a8a53015c",
+    "name": "Ashmicks Snack Shack",
+    "slug": "ashmicks-snack-shack",
+    "location": {
+      "area": "Bandra West",
+      "city": "Mumbai",
+      "lat": 19.06278,
+      "lng": 72.82956,
+      "address": null
+    },
+    "cuisines": [
+      "Parsi"
+    ],
+    "tags": [
+      "parsi",
+      "snacks"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [
+      "Chicken Farcha"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": null,
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:28.687Z",
+      "updated_at": "2025-11-30T11:37:54.419Z"
+    }
+  },
+  {
+    "id": "df5568ad-31ae-440b-8580-35f624e0c2b6",
+    "name": "August Cafe",
+    "slug": "august-cafe",
+    "location": {
+      "area": "Andheri West",
+      "city": "Mumbai",
+      "lat": 19.137403,
+      "lng": 72.8270394,
+      "address": "A-3, Sastri Nagar Rd, Sundervan Complex, Shastri Nagar, Andheri West, Mumbai, Maharashtra 400053, India"
+    },
+    "cuisines": [
+      "Fast Food"
+    ],
+    "tags": [
+      "fast-food",
+      "cafe",
+      "sandwiches"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [
+      "Sandwiches"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJWcmaHBi25zsR3Bs-QEMiD70",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:28.512Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    }
+  },
+  {
+    "id": "57152c72-fdce-4bcb-8deb-61a5ea20c699",
+    "name": "Avatara",
+    "slug": "avatara-mumbai",
+    "location": {
+      "area": "Santacruz West",
+      "city": "Mumbai",
+      "lat": 19.0848346,
+      "lng": 72.83472,
+      "address": "7th floor, Krishna Curve Building, Juhu Tara Rd, opp. Juhu Garden, Hasmukh Nagar, Santacruz West, Mumbai, Maharashtra 400054, India"
+    },
+    "cuisines": [
+      "Modern Indian"
+    ],
+    "tags": [
+      "modern-indian",
+      "vegetarian",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "price_for_two": null,
+    "is_veg": true,
+    "must_try": [
+      "Tasting Menu"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJcRNJbQDJ5zsR-PELd2UhLVg",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:23.150Z",
+      "updated_at": "2025-11-30T11:47:40.667Z"
+    }
+  },
+  {
+    "id": "0ae17bdd-911c-4262-a71c-9084927b67ce",
+    "name": "Burger King",
+    "slug": "burger-king-pune",
+    "location": {
+      "area": "Solapur Bazar",
+      "city": "Pune",
+      "lat": 18.5068175,
+      "lng": 73.879201,
+      "address": "2394, East St, Solapur Bazar, Camp, Pune, Maharashtra 411001, India"
+    },
+    "cuisines": [
+      "Fast Food"
+    ],
+    "tags": [
+      "fast-food",
+      "burgers"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJV-joujfAwjsRufimFOqQHDg",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-02-11T04:22:34.880Z",
+      "updated_at": "2026-02-11T04:22:34.880Z"
+    }
+  },
+  {
+    "id": "625fd735-e03d-4159-abc8-14b82988719d",
+    "name": "Cafe Srinivasa",
+    "slug": "cafe-srinivasa",
+    "location": {
+      "area": "Tardeo",
+      "city": "Mumbai",
+      "lat": 18.9626501,
+      "lng": 72.8110996,
+      "address": "51, Tanker Villa, August Kranti Rd, Papanas Wadi, Tardeo, Mumbai, Maharashtra 400026, India"
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian",
+      "vegetarian",
+      "dosa",
+      "budget"
+    ],
+    "price_for_two": null,
+    "is_veg": true,
+    "must_try": [
+      "Mulbagal Dosa"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJX2ocofbP5zsRgqo7yUZpssw",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-12-09T05:11:32.841Z",
+      "updated_at": "2025-12-09T05:11:32.841Z"
+    }
+  },
+  {
+    "id": "6f608f45-ffe9-45f0-adfe-77f15352e8eb",
+    "name": "Jia the Oriental Kitchen",
+    "slug": "jia-the-oriental-kitchen",
+    "location": {
+      "area": "Colaba",
+      "city": "Mumbai",
+      "lat": 18.9239932,
+      "lng": 72.8325309,
+      "address": "Suncity Apollo Hotel, 22, MB Marg, behind Regal Cinema, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India"
+    },
+    "cuisines": [
+      "Asian"
+    ],
+    "tags": [
+      "asian",
+      "oriental"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJd01ENMHR5zsRAfJbHd_a1RM",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:26.460Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    }
+  },
+  {
+    "id": "c9aaf0cf-ed77-43c0-b79d-a4fd8816906e",
+    "name": "Kapil Famous Dabeli Centre",
+    "slug": "kapil-famous-dabeli-centre",
+    "location": {
+      "area": "Andheri East",
+      "city": "Mumbai",
+      "lat": 19.1211785,
+      "lng": 72.8502203,
+      "address": "Shop No. 1 & 2, Rajgir Co-Op. Society, Andheri, Plot No. 154, Parsi Panchayat Rd, Azad Nagar, Andheri East, Mumbai, Maharashtra 400069, India"
+    },
+    "cuisines": [
+      "Mumbai Street Food"
+    ],
+    "tags": [
+      "street-food",
+      "mumbai-street-food",
+      "vegetarian",
+      "budget",
+      "dabeli"
+    ],
+    "price_for_two": null,
+    "is_veg": true,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJoTaGP9PJ5zsRq73gFQqsQAU",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-01-06T16:48:40.098Z",
+      "updated_at": "2026-01-06T16:48:40.098Z"
+    }
+  },
+  {
+    "id": "84cb41b8-9a2d-40bd-8e74-aa7dc387b5f1",
+    "name": "Nodo",
+    "slug": "nodo",
+    "location": {
+      "area": "Oshiwara",
+      "city": "Mumbai",
+      "lat": 19.1514567,
+      "lng": 72.8319397,
+      "address": "Shop no. 13, Ground Floor, Ltd, Meera Chs, New Link Rd, near Mega Mall, Oshiwara, Andheri West, Mumbai, Maharashtra 400053, India"
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "asian"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJL_O8ika35zsRldw2rA2IBy4",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-03-11T19:19:12.233Z",
+      "updated_at": "2026-03-11T19:19:12.233Z"
+    }
+  },
+  {
+    "id": "757c6c87-d21d-4275-ab9e-dddd7a75085b",
+    "name": "Pardon Our French",
+    "slug": "pardon-our-french",
+    "location": {
+      "area": "Ballard Estate",
+      "city": "Mumbai",
+      "lat": 18.9360046,
+      "lng": 72.8380575,
+      "address": "Sushila Bhavan, 24, Adi Murzban Path, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India"
+    },
+    "cuisines": [
+      "Café"
+    ],
+    "tags": [
+      "cafe",
+      "french"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJAyZDGwTR5zsRohsUXdjGeqo",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-03-08T17:54:49.703Z",
+      "updated_at": "2026-03-08T17:54:49.703Z"
+    }
+  },
+  {
+    "id": "f2836210-c096-4070-b4f3-fbe41a70af3a",
+    "name": "Porvai",
+    "slug": "porvai",
+    "location": {
+      "area": "Kandivali West",
+      "city": "Mumbai",
+      "lat": 19.2138866,
+      "lng": 72.8376108,
+      "address": "Porvai, 16, Petrol Pump Lane, 158, MHB Colony Rd, Mahavir Nagar, Kandivali West, Mumbai, Maharashtra 400067, India"
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJM6hDmoe35zsRJtY8arEEfK0",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-02-03T19:18:10.801Z",
+      "updated_at": "2026-02-03T19:18:10.801Z"
+    }
+  },
+  {
+    "id": "7d3ffa1c-01ad-4547-ae3e-ef4117856a89",
+    "name": "Ram & Shyam Chaat",
+    "slug": "ram-shyam-chaat",
+    "location": {
+      "area": "Santacruz West",
+      "city": "Mumbai",
+      "lat": 19.0784149,
+      "lng": 72.8363482,
+      "address": "Central Avenue, Santacruz West, Mumbai, Maharashtra 400054, India"
+    },
+    "cuisines": [
+      "Mumbai Street Food"
+    ],
+    "tags": [
+      "street-food",
+      "mumbai-street-food",
+      "vegetarian",
+      "budget",
+      "chaat"
+    ],
+    "price_for_two": null,
+    "is_veg": true,
+    "must_try": [
+      "Ragda Pattice",
+      "Pani Puri",
+      "Bhel"
+    ],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJ8XaMUQDJ5zsRVsSgBsbbv18",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-01-06T16:41:20.402Z",
+      "updated_at": "2026-01-06T16:41:20.402Z"
+    }
+  },
+  {
+    "id": "dcb2f4a2-39e6-4d73-a4cb-f5455c7a963d",
+    "name": "Rue Du Liban",
+    "slug": "rue-du-liban",
+    "location": {
+      "area": "Kala Ghoda",
+      "city": "Mumbai",
+      "lat": 18.9281887,
+      "lng": 72.8329293,
+      "address": "43, Sassoon Building, Forbes St, Kala Ghoda, Fort, Mumbai, Maharashtra 400001, India"
+    },
+    "cuisines": [
+      "Lebanese",
+      "Middle Eastern"
+    ],
+    "tags": [
+      "lebanese",
+      "middle-eastern"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJ19tnBiTR5zsRcoAp9b7wGlw",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-12-15T06:32:28.292Z",
+      "updated_at": "2025-12-15T06:32:28.292Z"
+    }
+  },
+  {
+    "id": "c52d964f-2958-41cf-b5fe-b6174f7b378a",
+    "name": "UPPU - A South Indian Kitchen",
+    "slug": "uppu-a-south-indian-kitchen",
+    "location": {
+      "area": "Nityanand Nagar",
+      "city": "Mumbai",
+      "lat": 19.0489608,
+      "lng": 72.8287377,
+      "address": "Shop no. 2, ONGC Quarters Ankleshwar Towers, near Lilavati Hospital, HIG Colony, Nityanand Nagar, Bandra West, Mumbai, Maharashtra 400050, India"
+    },
+    "cuisines": [
+      "South Indian"
+    ],
+    "tags": [
+      "south-indian"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJvbNRKYPJ5zsRNeODwC2IWEE",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2026-01-26T14:52:22.011Z",
+      "updated_at": "2026-01-26T14:52:22.011Z"
+    }
+  },
+  {
+    "id": "492db10b-da03-4668-90a6-419878f67422",
+    "name": "Wasabi by Morimoto",
+    "slug": "wasabi-by-morimoto",
+    "location": {
+      "area": "Colaba",
+      "city": "Mumbai",
+      "lat": 18.9225215,
+      "lng": 72.8332292,
+      "address": "The Taj Mahal Palace, Mumbai, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India"
+    },
+    "cuisines": [
+      "Japanese"
+    ],
+    "tags": [
+      "japanese",
+      "fine-dining",
+      "luxury"
+    ],
+    "price_for_two": null,
+    "is_veg": false,
+    "must_try": [],
+    "notes": null,
+    "source": "curated",
+    "status": "to_try",
+    "google": {
+      "place_id": "ChIJ5fCLBsPR5zsRTd3EZe_to9U",
+      "rating": null,
+      "reviews_count": null
+    },
+    "media": {
+      "cover_image": null,
+      "images": []
+    },
+    "opening_hours": null,
+    "contact": {
+      "phone": null,
+      "website": null
+    },
+    "meta": {
+      "created_at": "2025-11-30T10:08:25.339Z",
+      "updated_at": "2025-11-30T10:46:15.560Z"
+    }
+  }
+]
