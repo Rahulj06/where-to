@@ -3,6 +3,8 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getRestaurantBySlug } from '@/lib/restaurants'
 
+export const dynamic = 'force-dynamic'
+
 interface IPageProps {
   params: { slug: string }
 }
