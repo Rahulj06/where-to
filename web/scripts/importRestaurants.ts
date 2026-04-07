@@ -25,6 +25,7 @@ interface IRawRestaurant {
   status: string
   google: { place_id: string | null; rating: number | null; reviews_count: number | null }
   meta: { created_at: string; updated_at: string }
+  media?: { cover_image: string | null; images: Array<string> }
 }
 
 const dataPath = path.join(__dirname, '../../backend/src/data/restaurants.json')
@@ -50,6 +51,7 @@ const rows = raw.map(r => ({
   google_place_id: r.google.place_id,
   google_rating: r.google.rating,
   google_reviews_count: r.google.reviews_count,
+  image_url: r.media?.cover_image ?? null,
   created_at: r.meta.created_at,
   updated_at: r.meta.updated_at,
 }))

@@ -35,6 +35,12 @@ export default async function HomePage({ searchParams }: IPageProps) {
             <div>
               <h1 className="text-3xl font-bold text-stone-900 tracking-tight">Where To?</h1>
               <p className="text-stone-500 mt-1 text-sm">Curated restaurants, nothing else.</p>
+              <a
+                href="/discover"
+                className="mt-3 inline-block text-sm font-semibold text-orange-600 hover:text-orange-700"
+              >
+                Discover mode →
+              </a>
             </div>
             <p className="text-stone-400 text-sm hidden sm:block">
               {restaurants.length} {restaurants.length === 1 ? 'place' : 'places'}

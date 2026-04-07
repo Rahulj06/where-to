@@ -18,8 +18,18 @@ export interface IRestaurant {
   google_place_id: string | null
   google_rating: number | null
   google_reviews_count: number | null
+  image_url: string | null
   created_at: string
   updated_at: string
+}
+
+export type TVote = 'yes' | 'no'
+
+export interface IRestaurantStats {
+  restaurant_id: string
+  total_votes: number
+  yes_count: number
+  yes_percentage: number | null
 }
 
 export interface IRestaurantFilters {
