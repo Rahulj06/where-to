@@ -6,7 +6,7 @@ export default function NotFound() {
       <div className="text-5xl mb-4">🍽️</div>
       <h1 className="text-2xl font-bold text-stone-900 mb-2">Restaurant not found</h1>
       <p className="text-stone-400 text-sm mb-8 max-w-xs">
-        This restaurant doesn't exist or may have been removed.
+        This restaurant is not in our list or may have been removed.
       </p>
       <Link
         href="/"
