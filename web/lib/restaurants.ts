@@ -24,7 +24,7 @@ export const getRestaurants = async (filters: IRestaurantFilters = {}): Promise<
   }
 
   const { data, error } = await query
-  if (error) throw new Error(error.message)
+  if (error) return []
   return data ?? []
 }
 
@@ -40,14 +40,14 @@ export const getRestaurantBySlug = async (slug: string): Promise<IRestaurant | n
 }
 
 export const getAllCuisines = async (): Promise<Array<string>> => {
-  const { data } = await supabase.from('restaurants').select('cuisines')
-  if (!data) return []
+  const { data, error } = await supabase.from('restaurants').select('cuisines')
+  if (error || !data) return []
   const all = data.flatMap(row => row.cuisines ?? [])
   return [...new Set(all)].sort()
 }
 
 export const getAllAreas = async (): Promise<Array<string>> => {
-  const { data } = await supabase.from('restaurants').select('area')
-  if (!data) return []
+  const { data, error } = await supabase.from('restaurants').select('area')
+  if (error || !data) return []
   return [...new Set(data.map(row => row.area).filter(Boolean))].sort()
 }
